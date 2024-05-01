@@ -547,11 +547,23 @@ video {
 .h-7 {
   height: 1.75rem;
 }
+.h-10 {
+  height: 2.5rem;
+}
+.h-8 {
+  height: 2rem;
+}
+.h-9 {
+  height: 2.25rem;
+}
 .w-44 {
   width: 11rem;
 }
 .w-7 {
   width: 1.75rem;
+}
+.w-10 {
+  width: 2.5rem;
 }
 .max-w-7xl {
   max-width: 80rem;
@@ -669,6 +681,9 @@ video {
 }
 .p-5 {
   padding: 1.25rem;
+}
+.p-4 {
+  padding: 1rem;
 }
 .px-3 {
   padding-left: 0.75rem;
